@@ -1,0 +1,21 @@
+Rock-Paper-Scissors Web App - Streamlit :
+
+Project Overview
+This is an interactive Rock-Paper-Scissors game built using Python Streamlit. Users can:
+- Select Rock, Paper, or Scissors
+- Play against a computer making random moves
+- View instant game results
+- Track their score against the computer
+- Reset the game anytime
+
+Features
+-  Random computer selection
+-  Immediate result display
+-  Live score tracking (User vs Computer)
+-  Reset option to clear scores
+-  Clean, responsive UI with emojis
+
+Tech Stack
+- Python 3
+- Streamlit for frontend/web app
+- Random module for computer choices
